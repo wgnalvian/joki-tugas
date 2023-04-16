@@ -3,7 +3,7 @@
 $host = "localhost";
 $user = "root";
 $pass = "";
-$db = "dashboard_admin";
+$db = "asd";
 
 $connect = mysqli_connect($host, $user, $pass, $db);
 if (!$connect) {
